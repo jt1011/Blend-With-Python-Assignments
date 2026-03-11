@@ -1,0 +1,29 @@
+[
+  {
+    "tweet_id": "1",
+    "text": "Teams shipping AI features fast are investing in evals before prompts. Prompt tweaks without eval baselines create random regressions.",
+    "author": "dev_lead",
+    "url": "https://x.com/dev_lead/status/1",
+    "likes": 320,
+    "reposts": 88,
+    "replies": 24
+  },
+  {
+    "tweet_id": "2",
+    "text": "Most backend incidents this quarter were not cloud outages but schema drift + weak migration rollback strategy.",
+    "author": "infra_notes",
+    "url": "https://x.com/infra_notes/status/2",
+    "likes": 190,
+    "reposts": 42,
+    "replies": 15
+  },
+  {
+    "tweet_id": "3",
+    "text": "If your PR cycle time is above 2 days, your architecture discussions are likely happening too late in the implementation phase.",
+    "author": "eng_manager",
+    "url": "https://x.com/eng_manager/status/3",
+    "likes": 145,
+    "reposts": 30,
+    "replies": 12
+  }
+]
